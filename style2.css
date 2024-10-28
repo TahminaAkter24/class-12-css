@@ -1,0 +1,568 @@
+.marquee{
+    color:black;
+    font-size: 20px;
+    
+    
+}
+.blog_one{
+    width: 300px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-radius: 6px;
+    float:left;
+}
+.blog_one h1{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+}
+.blog_one img{
+    width: 250px;
+    height: 200px;
+    margin-left:25px ;
+}
+.blog_one p {
+    font-size: 16px;
+    color:black;
+    margin-left: 25px;
+}
+.btn_one{
+    height: 40px;
+    width: 150px;
+    border:1px solid black;
+    border-radius: 4px;
+    background-color: bisque;
+ 
+    margin-bottom: 20px;
+}
+
+
+.blog_two{
+    width: 300px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+}
+.blog_two h1{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    text-transform: capitalize;
+}
+.blog_two img{
+    width: 250px;
+    height: 200px;
+    margin-left: 25px;
+}
+.blog_two p{
+
+    font-size: 16px;
+    color: black;
+    margin-left: 25px;
+}
+
+.blog_three{
+    width: 300px;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+   
+   
+}
+.blog_three h1{
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    text-transform: capitalize;
+}
+.blog_three img{
+    width: 250px;
+    height: 200px;
+    margin-left: 25px;
+}
+.blog_three p{
+    font-size: 16px;
+    color: black;
+    margin-left: 25px;
+}
+.marquee{
+    color:black;
+    font-size: 20px;
+    
+    
+}
+.blog_four{
+
+    width: 300px;
+     float: left;
+    margin-bottom: 40px;
+}
+.blog_four img{
+    height: 350px;
+    width: 300px;
+    
+}
+.biog_four p{
+font-size: 16px;
+color:black;
+margin-left: 25px;
+}
+.blog_four h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.btn_four{
+    height: 40px;
+    width: 150px;
+    border:1px solid black;
+    border-radius: 4px;
+    background-color: bisque;
+ 
+    margin-bottom: 20px;
+}
+.blog_five{
+
+width: 300px;
+float: left;
+margin-bottom: 40px;
+}
+.blog_five img{
+    height: 350px;
+    width: 300px;
+    margin-left: 25px;
+}
+.blog_five p{
+font-size: 19px;
+color:black;
+margin-left: 25px;
+}
+.blog_five h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.btn_five{
+    height: 40px;
+    width: 150px;
+    border:1px solid black;
+    border-radius: 4px;
+    background-color: bisque;
+    margin-bottom: 20px;
+}
+.blog_six{
+
+    width: 300px;
+    float: left;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    }
+    .blog_six img{
+        height: 350px;
+        width: 300px;
+        margin-left: 25px;
+    }
+    .blog_six p{
+    font-size: 20px;
+    color:black;
+    margin-left: 25px;
+    }
+    .blog_six h1{
+        text-transform: uppercase;
+        text-align: center;
+        font-size: 30px;
+        
+    }
+    .btn_six{
+        height: 40px;
+        width: 150px;
+        border:1px solid black;
+        border-radius: 4px;
+        background-color: bisque;
+        margin-bottom: 20px;
+    } 
+    
+   .Travel{
+    width: 1200px;
+   }
+   .left{
+    width: 450px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 60px;
+   }
+   .right{
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 100px;
+    float:left;
+    
+   }
+   .right img{
+    width: 620px;
+    height: 550px;
+   }
+    .left h3{
+    font-family: 'Robot',sans-serif;
+    font-weight: 400px;
+    }
+    .left h1{
+        font-family:'Robot',sans-serif;
+        font-weight: 90px;
+        font-size: 50px;
+    }
+    .left p{
+        font-family:'Robot'sans-serif;
+        font-weight: 300px;
+        padding-bottom: 10px;
+    }
+    .seven{
+        height: 40px;
+        width: 150px;
+        border: 1px solid black;
+        border-radius: 4px;
+        background-color: brown;
+        margin-left: 80px;
+        margin-bottom: 70px;
+        margin-top: 40px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    ;
+}
